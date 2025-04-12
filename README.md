@@ -1,6 +1,4 @@
-Here's the fully completed use case document with your GitHub link included:
 
----
 
 # Use Case Document
 
