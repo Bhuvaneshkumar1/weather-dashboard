@@ -91,16 +91,3 @@ https://github.com/Bhuvaneshkumar1/weather-dashboard/blob/main/mobile_view_respo
 https://github.com/Bhuvaneshkumar1/weather-dashboard/blob/main/full_detail_about_city.png
 *(Caption: Desktop view showing the full weather card)*
 
----
-
-**Note:** The document is now complete with:
-1. Your GitHub repository link included
-2. All your personal and academic details
-3. Placeholder for live deployment link (to be added when available)
-4. Standardized screenshot references (you should add these images to a screenshots folder in your repository)
-
-Before submission:
-1. Add your live deployment link when available
-2. Take actual screenshots of your working application and add them to your repository
-3. Verify all details are correct
-4. Ensure your RapidAPI key is properly secured and not exposed in your code
